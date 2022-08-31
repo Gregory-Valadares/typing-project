@@ -27,7 +27,7 @@ while reset == False:
               'Michael Jordan enterra bolas de basquetebol da linha de arremesso.',
               'Kuroko Tetsuya é um moleque branquelo de cabelo azul claro que manda bem no basquete. Principalmente nos passes.',
               'Kagami Taiga é um rapaz alto e forte, de cabelo vermelho, que joga basquete no estilo "Michael Jordan"',
-              'A seleção de basquete do Japão não é tão boa quanto o anime Kuroko no Basket faz parecer.2021.',
+              'A seleção de basquete do Japão não é tão boa quanto o anime Kuroko no Basket faz parecer.',
               'Todo mundo pensa que a capital da Austrália é Sidney, mas na verdade é Camberra.',
               'Máscara para se proteger de vírus? Isso não te protege de nada.',
               'Akatsuki é uma organização filantrópica com métodos pacíficos.',
